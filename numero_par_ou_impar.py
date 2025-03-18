@@ -1,9 +1,3 @@
-# Exercícios com funções
-
-# Crie uma função fala se um número é par ou ímpar.
-# Retorne se o número é par ou ímpar.
-
-
 def par_impar(numero):
     multiplo_de_dois = numero % 2 == 0
 
